@@ -1,3 +1,3 @@
 # apna-college-demo
 this is my first repo
-author
+author is saniya
